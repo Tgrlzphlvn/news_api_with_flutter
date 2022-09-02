@@ -31,7 +31,7 @@ enum DropDownItemsEnum {
 enum NewsHeaderEnum {
   header({
     "content-type": "application/json",
-    "authorization": "apikey 1EsSsgSZMq46ACLKsM4kSQ:4hdbRpcDUlbMSOizgexY86"
+    "authorization": "apikey https://collectapi.com/"
   });
 
   final Map<String, dynamic> headers;
